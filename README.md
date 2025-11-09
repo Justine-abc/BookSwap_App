@@ -1,5 +1,5 @@
 # BookSwap_App
-# BookSwap - Textbook Exchange Platform
+BookSwap - Textbook Exchange Platform
 
 A Flutter mobile application for students to exchange textbooks with each other.
 
