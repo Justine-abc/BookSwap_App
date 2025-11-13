@@ -160,7 +160,7 @@ dependencies:
 
 ## Demo Video
 
-https://www.loom.com/share/c235da0fe2a94ffe881a0b1c3e226f7e
+
 The demo shows:
 - User authentication flow
 - Swap functionality with status changes
@@ -202,8 +202,7 @@ This project was created as part of a mobile development course assignment.
 ## Author
 
 - Email: u.justine@alustudent.com
-- GitHub: https://github.com/Justine-abc/BookSwap_App
-
+- GitHub: https://github.com/Justine-abc/bookswap-Formative2
 ## Acknowledgments
 
 - Flutter team for the amazing framework
